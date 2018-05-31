@@ -1,0 +1,15 @@
+{
+    "name": "Travis",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "50df83be-289f-4b6d-bcba-29eb74d78ac1",
+            "id": "a60670a0-6502-11e8-88a6-559bcc543a24",
+            "type": "endpoint",
+            "appPassword": "ulwPSJ46^[vobvRBLH025+#",
+            "endpoint": "http://localhost:9000/",
+            "name": "Travis"
+        }
+    ]
+}
